@@ -20,7 +20,7 @@
   My Github Stats
 </h2>
 
-| <a><img align="center" height=200px src="https://github-readme-stats.vercel.app/api?username=YzerD&include_all_commits=true&theme=tokyonight&rank_icon=github" alt="Yzer's github stats" /></a> | <a><img align="center" height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=YzerD&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| <a><img align="center" height=200px src="https://github-readme-stats.vercel.app/api?username=YzerD&include_all_commits=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="Yzer's github stats" /></a> | <a><img align="center" height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=YzerD&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <p align = "center">
