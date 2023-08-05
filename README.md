@@ -24,7 +24,7 @@
 | ------------- | ------------- |
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=YzerD&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=YzerD&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0&hide_border=true" />
 </p> 
 
 
@@ -32,5 +32,5 @@
   Top Repositories
 </h2>
 
-| <a href="https://github.com/YzerD/CSCI335"><img align="center" height=200px src="https://github-readme-stats.vercel.app/api/pin/?username=YzerD&repo=CSCI335&theme=tokyonight" alt="Yzer's github stats" /></a> | <a href="https://github.com/YzerD/NeetCode150"><img align="center" height=200px src="https://github-readme-stats.vercel.app/api/pin/?username=YzerD&repo=NeetCode150&theme=tokyonight" /></a> |
+| <a href="https://github.com/YzerD/CSCI335"><img align="center" height=200px src="https://github-readme-stats.vercel.app/api/pin/?username=YzerD&repo=CSCI335&theme=tokyonight&hide_border=true" alt="Yzer's github stats" /></a> | <a href="https://github.com/YzerD/NeetCode150"><img align="center" height=200px src="https://github-readme-stats.vercel.app/api/pin/?username=YzerD&repo=NeetCode150&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
