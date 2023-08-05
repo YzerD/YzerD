@@ -3,6 +3,20 @@
 </div>
 
 <h2 align="center">
+  Technology Stack
+</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+</p>
+
+
+<h2 align="center">
   My Github Stats
 </h2>
 
@@ -12,3 +26,17 @@
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=YzerD&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
 </p> 
+
+
+<h2 align="center">
+  Top Repositories
+</h2>
+
+<a href="https://github.com/YzerD/NeetCode150">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YzerD&repo=CSCI335&theme=tokyonight" />
+</a> 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YzerD&repo=NeetCode150&theme=tokyonight" />
+</a> 
+
