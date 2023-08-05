@@ -32,11 +32,11 @@
   Top Repositories
 </h2>
 
-<a href="https://github.com/YzerD/NeetCode150">
+<a href="https://github.com/YzerD/CSCI335">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YzerD&repo=CSCI335&theme=tokyonight" />
 </a> 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/YzerD/NeetCode150">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YzerD&repo=NeetCode150&theme=tokyonight" />
 </a> 
 
