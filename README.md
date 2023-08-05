@@ -1,3 +1,3 @@
 <div style = "text-align: center;">
-  <img alt="Banner" src="images/bggif2.gif">
+  <img alt="Banner" src="images/banner.gif">
 </div>
